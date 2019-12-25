@@ -1,5 +1,5 @@
 {
-    "name": "hashing-scrypt",
+    "name": "hashing-yescrypt",
     "version": "0.0.1",
     "main": "hashing",
     "author": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/maoxs2/node-hashing-keccak.git"
+        "url": "https://github.com/maoxs2/node-hashing-yescrypt.git"
     },
     "dependencies": {
         "bindings": "*"
