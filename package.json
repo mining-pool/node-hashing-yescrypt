@@ -14,7 +14,7 @@
         "bindings": "*"
     },
     "keywords": [
-        "scrypt_hash",
-        "scrypt"
+        "yescrypt_hash",
+        "yescrypt"
     ]
 }

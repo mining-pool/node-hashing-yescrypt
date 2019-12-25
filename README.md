@@ -1,7 +1,7 @@
 node-hashing-yescrypt
 ===============
 
-scrypt hashing functions for NodeJS(>=13).
+yescrypt hashing functions for NodeJS(>=13).
 
 
 Usage
